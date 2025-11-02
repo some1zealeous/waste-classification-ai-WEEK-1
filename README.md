@@ -27,12 +27,12 @@ The goal of this project is to build a **CNN-based Image Classification Model** 
 ---
 
 ## 📂 Project Structure
-waste-classification-ai/
-│  
-├── README.md  
-├── requirements.txt  
-└── notebooks/  
----> └── week1_setup.ipynb  
+> waste-classification-ai/  
+> .        │  
+> .        ├── README.md  
+> .        ├── requirements.txt  
+> .        └── notebooks/  
+> .                └── week1_setup.ipynb  
 ---
 
 ## 🌱 Next Steps
@@ -46,5 +46,6 @@ waste-classification-ai/
 ## 📎 Dataset Reference
 You can use:
 - [TrashNet Dataset on Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+
 
 
